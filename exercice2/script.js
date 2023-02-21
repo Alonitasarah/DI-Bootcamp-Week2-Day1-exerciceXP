@@ -1,4 +1,9 @@
 const myWatchedSeries = ["black mirror", "money heist", "the big bang theory"];
+/**
+Correcteur: Yannick GOUGUIA
+
+Pourquoi tu mets les () autour des valeurs?
+*/
 const myWatchedSeriesLength = (3);
 const myWatchedSeriesSentence = ("black mirror money heist the big bang theory");
 console.log("I watched "+myWatchedSeriesLength +' '+myWatchedSeriesSentence);
