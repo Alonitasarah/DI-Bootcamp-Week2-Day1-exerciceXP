@@ -14,7 +14,6 @@ console.log(myWatchedSeries);
 /* supprimer un élément du tableau */
 myWatchedSeries.splice(1,1);
 console.log(myWatchedSeries);
-/*alonita*/
 /* console.log pour faire sortir l'élément dont on besoin puis (nom de la variable[indice de l'élément]point substring pour avoir accés à l'indice des mots de notre éléments puis(l'indice,la position de l'élément)) */
 console.log(myWatchedSeries[1].substring(2,3));
 console.log(myWatchedSeries);
